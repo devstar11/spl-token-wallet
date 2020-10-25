@@ -211,7 +211,7 @@ function Footer() {
         component="a"
         target="_blank"
         rel="noopener"
-        href="https://github.com/serum-foundation/spl-token-wallet"
+        href="https://github.com/devstar11/spl-token-wallet/tree/desktop"
         startIcon={<CodeIcon />}
       >
         View Source
